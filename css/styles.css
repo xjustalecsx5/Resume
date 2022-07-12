@@ -46,6 +46,11 @@ a:hover {
 color: #EAF6f6;
 }
 
+.profile-pic{
+  width: 10%;
+  border-radius: 100%;
+}
+
 .mountainn {
   width: 650px;
 }
